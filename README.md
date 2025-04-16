@@ -1,4 +1,4 @@
-![Pacman Game](@pacman_game.gif)
+![Pacman Game](pacman_game.gif)
 
 # AI-Pacman
 
