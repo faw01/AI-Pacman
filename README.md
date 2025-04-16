@@ -1,3 +1,5 @@
+![Pacman Game](@pacman_game.gif)
+
 # AI-Pacman
 
 This repository contains implementations for Monash University's FIT3080 Artificial Intelligence unit. These assignments centered around developing AI agents for the classic Pacman game. The project uses the UC Berkeley Pacman framework and includes various AI techniques from search algorithms to reinforcement learning and machine learning.
